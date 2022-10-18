@@ -2784,7 +2784,11 @@
 		</attachments>
 	</type>
 		
-		
+		<type name="GPSReceiver">
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+	</type>
 		
 		
 	<!-- XMAS -->
